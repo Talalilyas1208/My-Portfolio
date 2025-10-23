@@ -118,12 +118,11 @@ export default function AppHeader() {
             <strong>useful applications</strong> for the web. In my spare time, I
             enjoy cooking, reading comics, and travelling.
           </Paragraph>
-
-          {/* 🔗 GitHub Button */}
           <Space size="middle" style={{ marginTop: 20 }}>
             <Button
               type="primary"
               shape="round"
+                href="https://github.com/Talalilyas1208"
               icon={<MailOutlined />}
               size="large"
               style={{
