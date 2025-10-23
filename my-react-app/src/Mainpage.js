@@ -100,7 +100,6 @@ export default function AppHeader() {
             padding: "60px 20px",
           }}
         >
-          {/* 🖼️ Profile Picture from public folder */}
           <Avatar
             src={profile}
             size={120}
